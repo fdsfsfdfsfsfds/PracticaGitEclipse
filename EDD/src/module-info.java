@@ -5,5 +5,4 @@
  * 
  */
 module EDD {
-	//HOLA
 }
